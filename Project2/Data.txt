@@ -1,0 +1,10 @@
+
+
+Julio. Ingreso: 10:55, egreso: 10:55. Agente que atiende: 2. Tiempo en cola: 0 minutos. NuevoServicio, atendido.
+
+Pedro. Ingreso: 10:56, egreso: 10:56. Agente que atiende: 4. Tiempo en cola: 0 minutos. Reclamos, atendido.
+
+Juana. Ingreso: 11:1, egreso: 11:2. Agente que atiende: 2. Tiempo en cola: -1 minutos. NuevoServicio, atendido.
+
+Martin. Ingreso: 11:1, egreso: 11:2. Agente que atiende: 5. Tiempo en cola: -1 minutos. Reclamos, atendido.
+
